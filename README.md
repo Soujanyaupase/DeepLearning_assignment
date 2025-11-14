@@ -25,7 +25,6 @@ This repository contains my Deep Learning assignment done using **Google Colab**
 ---
 
 ## 🧾 Submitted by:
-**Soujanya Upase**  
-Team - Uzma Farzana , Uday Kumar
-
+**Soujanya Upase**  (1RF22IS080)
+Team - Uzma Farzana(1RF22IS093) , Uday Kumar(1RF22IS091)
 Deep Learning Assignment – 2025
